@@ -1,20 +1,20 @@
-# NECC
-TSG BAH NECC
+# University of Washington
+TekSystem
 
-# 230627 NECCPAC EODTEU1 Tracker and Scheduling
-Created by Go, Richard (TSG Federal)
+# 251028 SharePoint Migration from SP 2019 to M365 SPO
+Created by Go, Richard (TEKSystem)
 
 | Target release |       |	
 | --- | --- |
 | Epic	| --- |
 | Document status	| DRAFT |
-| Document owner	| Go, Richard (TSG Federal) |
+| Document owner	| Go, Richard (TEKSystem) |
 | Designer	|     |
-| Developers	|  |
-| QA	|  |
-| POC	|  Scott Powers, Exec Director, Asst Director of Training |
-|  | LT Clancy, Director of Training  |
-|  | Nadia, Scheduler  |
+| Developers	| Colleen, Sharri |
+| QA	| Rosemary |
+| POC	|  Rosemary |
+|  | --  |
+|  | --  |
 
 ## Goals
 - Have a ready-made Dashboard for Executive Leadership use that is dynamic.
@@ -59,15 +59,15 @@ Supply or sources of gears, ammunition, electronics, etc updates their data on a
 Supply Portal List
 Are they using centralized data sets like:
 
-- DPAS
-- ADVANA
-- Snapshot Dashboard
+- Cardio
+- Pulmonary
+- Psychology
 
 Individual student data inputs forms and turn into a Dashboard
 Individual instructor data inputs forms and turn into a Dashboard
 
 **Must Have**	
-These are data before the students come to EODTEU1.
+These are data before the students come to UW.
 
 **Students**
 Quals
@@ -117,7 +117,7 @@ Functional Homepages with useful links
 Links
 Doesn't like showing Document library contents on pages
 Page design
-Make it functional to users
+Make it functional for users
 Create an approval Document Library
 Training of personnel
 
@@ -200,31 +200,27 @@ Below is a list of questions to be addressed as a result of this requirements do
 
 ## Resources
 
-- advana.data.mil	
 - Centralized source of data for creating dashboards and reports
-- Only can pull data and no write capability
+- Can only pull data and has no write capability
 - Power BI can pull data using data clusters
 - No API connector to FS except PBI
 - Gemba Walk	
-- Walk the process to identify data constraints
+- Walk through the process to identify data constraints
 - Start with Grade Sheets
-- R Supply	
-- DPAS	
 
 
 ## Not Doing
 - Page Design, responsibility of each department. We can advise.
-- Training of personnel for administering of FS. That is the job of each department head, Scott Powers.
+- Training of personnel for administering the new SharePoint Online. That is the job of each department head, Rosemary.
 
 
 ## Legend:
 | Abbv  | Meaning |
 | --- | --- |
 | IC	| Internet Connection |
-| FS	| FlankSpeed |
 | KPI| 	Key Performance Indicator |
 vMx	| Maintenance |
-| PA	| Power Apps |
+| PAP	| Power Apps |
 | PAM	| Power Automate |
 | PBI	| Power BI |
 | SP	| SharePoint |
@@ -234,28 +230,19 @@ vMx	| Maintenance |
 
 ## Logs
 
-**230627**	
+**251028**	
+  - Initial meeting with:
+  
+  - **UW**
+      * Rosemary (IT Head)
+      * Colleen (SP Developer)
+      * Sharri (SP Developer)
+  
+  - **TEKSystem**
+      * Mikayla (PM)
+      * Richard (me)
 
-  Initial meeting with:
-  
-  **BAH**
-  - Richard Go
-  - Brayden Zanks
-  - Jeff Bradley (Data Science)
-  
-  **NECC**
-  
-  - LT Clancy
-  - Scott Powers
-  - DivO, LtJG
 
-**230628**
-
-  Training Dashboards Debrief
-  
-  - Richard Go
-  - Brayden Zanks
-  - Jeff Bradley
 
 
 
