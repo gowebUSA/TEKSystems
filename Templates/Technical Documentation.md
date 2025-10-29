@@ -165,29 +165,28 @@ What is success?
 
 **230627**
 
-- Gemba Walk
-- Grade Sheet
-- Get current data set
-- Google Sheet
-- Toughbooks
-- No IC
-- What data they collect
-- Integrity of data
-- Resource Managers
-- How are they doing their inventory?
-- How are they reporting to Training Mangers?
-- Do they use DPAS or other reporting system?
-- Priority to build (ask Scott Powers)
-- Grade Sheet
-- Online Resource Tracker
-- Long Range Training Plan Tracker
-- Snapshot
-- KPI's
-- What is success?
-- Target variable
-- Aggression analysis
-- Get current data set/series
-- What data they are currently using?
+- [x] Gemba Walk
+- [ ] Grade Sheet
+- [ ] Get current data set
+- [ ] Google Sheet
+- [ ] Toughbooks
+- [ ] No IC
+- [ ] What data do they collect
+- [ ] Integrity of data
+- [ ] Resource Managers
+- [ ] How are they doing their inventory?
+- [ ] How are they reporting to Training Managers?
+- [ ] Priority to build (ask Rosemary)
+- [ ] Grade Sheet
+- [ ] Online Resource Tracker
+- [ ] Long Range Training Plan Tracker
+- [ ] Snapshot
+- [ ] KPI's
+- [ ] What is success?
+- [ ] Target variable
+- [ ] Aggression analysis
+- [ ] Get current data set/series
+- [ ] What data are they currently using?
 
 
 ## Questions
